@@ -33,7 +33,7 @@
 - 🤔 I’m looking for help with almost everything
 - 💬 Ask me about machine learning
 - 📫 How to reach me: social media
-- ⚡ Fun fact: I am a Nerd (don't know if this is a fun fact)
+- ⚡ Fun fact: I like reading books.
 
 ---
 
