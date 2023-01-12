@@ -45,19 +45,19 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <tr>
-  <td><a href="https://youtu.be/_BgY8AXFpt0"><img width="140px" src="https://i9.ytimg.com/vi_webp/_BgY8AXFpt0/mq2.webp?sqp=CJz0-J0G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEMgVyhlMA8=&rs=AOn4CLD9X5vkqTbr7mKTZKFWm7mGzaYlZA"></a></td>
+  <td><a href="https://youtu.be/_BgY8AXFpt0"><img width="140px" src="http://i3.ytimg.com/vi/_BgY8AXFpt0/hqdefault.jpg"></a></td>
   <td><a href="https://youtu.be/_BgY8AXFpt0">Dynamic traffic light management system using reinforcement learning.</a><br/></td>
 </tr>
 <tr>
-  <td><a href="https://youtu.be/vH7SU3IFuPk"><img width="140px" src="https://i9.ytimg.com/vi_webp/vH7SU3IFuPk/mq2.webp?sqp=CPT4-J0G-oaymwEmCMACELQB8quKqQMa8AEB-AGgAYAC6AKKAgwIABABGE4gVShlMA8=&rs=AOn4CLAXPeZJBYfogrP_8EYEX5V2ve7wLA"></a></td>
+  <td><a href="https://youtu.be/vH7SU3IFuPk"><img width="140px" src="http://i3.ytimg.com/vi/vH7SU3IFuPk/hqdefault.jpg"></a></td>
   <td><a href="https://youtu.be/vH7SU3IFuPk">Toxic comment classification using distillbert</a><br/></td>
 </tr>
 <tr>
-  <td><a href="https://youtube.com/shorts/JsOVovxJpKo"><img width="140px" src="https://i9.ytimg.com/vi_webp/JsOVovxJpKo/mq2.webp?sqp=CMz9-J0G-oaymwEoCMACELQB8quKqQMcGADwAQH4Ab4DgALgA4oCDAgAEAEYRCBdKGUwDw==&rs=AOn4CLCeD4kP04qxUjDGMISOMDxfZnnUYw"></a></td>
+  <td><a href="https://youtube.com/shorts/JsOVovxJpKo"><img width="140px" src="https://i.ytimg.com/vi/JsOVovxJpKo/hq720_2.jpg?sqp=-oaymwEdCMADEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLASk3ZWOJVvYJFnqjYNgC5EWQPzqw"></a></td>
   <td><a href="https://youtube.com/shorts/JsOVovxJpKo">Object Detection  using faster-rcnn</a><br/></td>
 </tr>
 <tr>
- <td><a href="https://youtu.be/DjWTgqenv9U"><img width="140px" src="https://i9.ytimg.com/vi_webp/DjWTgqenv9U/mq2.webp?sqp=CMz9-J0G&rs=AOn4CLCgdotXmvwwMLsuZPTZmCfrGLwCxA"></a></td>
+ <td><a href="https://youtu.be/DjWTgqenv9U"><img width="140px" src="http://i3.ytimg.com/vi/DjWTgqenv9U/hqdefault.jpg"></a></td>
  <td><a href="https://youtu.be/DjWTgqenv9U">face detection pytorch</a><br/></td>
 </tr>
 
