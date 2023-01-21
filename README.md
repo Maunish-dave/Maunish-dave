@@ -62,7 +62,7 @@
 ### Achievement that I am proud of
 <table>
   <tr>
-    <td><a href="https://www.kaggle.com/maunish"><img src="https://media.licdn.com/dms/image/C562DAQGALWEZkBpPMQ/profile-treasury-image-shrink_800_800/0/1630129187961?e=1674111600&v=beta&t=L5Rh0ZqeYx4V-yl8zdsjuojPGKpQDNYjDRqEYj1YAPM" width="500" height = "250"/></a></td>
+    <td><a href="https://www.kaggle.com/maunish"><img src="kaggle.jpeg" width="500" height = "250"/></a></td>
   </tr>
 </table>
 
