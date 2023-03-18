@@ -12,6 +12,9 @@
   <a href="https://twitter.com/MaunishD">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://leetcode.com/maunish1009/">
+    <img src="https://img.shields.io/badge/-leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode Badge"/>
+  </a>
 </div>
 
 <h1 align="center">
@@ -26,12 +29,12 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working as a Machine Learning Engineer
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on any opensource projects
 - 🤔 I’m looking for help with almost everything
 - 💬 Ask me about machine learning
-- 📫 How to reach me: social media
-- ⚡ Fun fact: I like reading books.
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: I like reading books
 
 ---
 ### Project YouTube Videos 
