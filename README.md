@@ -28,8 +28,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working as a Machine Learning Engineer
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working as a Backend Engineer
+- 🌱 I’m currently learning about LLMs.
 - 👯 I’m looking to collaborate on any opensource projects
 - 🤔 I’m looking for help with almost everything
 - 💬 Ask me about machine learning
